@@ -9,3 +9,5 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27926
 HOWTO: 
 - add folders to Matlab path 
 - run recon.m 
+
+Note: this repository is cloned to our new github organisation: https://github.com/amsterdam-umc-mri/19F-multicolor
